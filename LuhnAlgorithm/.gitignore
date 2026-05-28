@@ -1,0 +1,36 @@
+# Executable Files
+*.exe
+*.out
+*.app
+
+# Object Files
+*.o
+*.obj
+
+# Static / Dynamic Libraries
+*.lib
+*.dll
+*.so
+*.a
+
+# Build Folders
+build/
+bin/
+Debug/
+Release/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# VSCode
+.vscode/
+
+# Visual Studio
+.vs/
+
+# Temporary Files
+*.tmp
+*.log
